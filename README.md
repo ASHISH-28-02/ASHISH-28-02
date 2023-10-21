@@ -11,7 +11,8 @@
 
 - Open to **Collaborating and Contributing to Innovative Projects.**
 
-- Always on the lookout for **Innovation** and eager to face new **Challenges.**
+- Always on the lookout for **Innovation** and eager 
+to face new **Challenges.**
 
 - Reach me via **ashish.b2005@gmail.com**
 
