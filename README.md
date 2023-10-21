@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131572/ComputerScience.org/programmer-coding-on-laptop_858160b59/programmer-coding-on-laptop_858160b59.jpg)](https://github.com/ASHISH-28-02)
 <h1 align="center">Hello , I'm Ashish B</h1>
-<img align="right" alt="Coding" height="100" width="100"src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+<img align="right" alt="Coding" height="250" width="200" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 <h3 align="center">The best way to predict your future is to create it</h3>
 
 
@@ -11,8 +11,7 @@
 
 - Open to **Collaborating and Contributing to Innovative Projects.**
 
-- Always on the lookout for **Innovation** and eager 
-to face new **Challenges.**
+- Always on the lookout for **Innovation** and eager to face new **Challenges.**
 
 - Reach me via **ashish.b2005@gmail.com**
 
