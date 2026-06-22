@@ -12,8 +12,6 @@
 
 - I'm a **Passionate Programmer** and a **Math Enthusiast** who can convey and grasp new ideas effectively.
 
-- Currently pursuing **B.Tech in Computer Science and Engineering.**
-
 - Open to **Collaborating and Contributing to Innovative Projects.**
 
 - Always on the lookout for **Innovation** and eager to face new **Challenges.**
@@ -23,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/B2005Ashish" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/600px-X_logo_2023_%28white%29.png" alt="B2005Ashish" height="40" width="40" /></a>
+<a href="https://x.com/B2005Ashish" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.32ZelIrlClOMXhcwZvpflgHaHa?w=195&h=195&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="B2005Ashish" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashish-b-54080226b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-b-54080226b/" height="30" width="40" /></a>
 <a href="https://instagram.com/8_a.s_h.i_s.h_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/8_a.s_h.i_s.h_8/?next=%2f&hl=en" height="30" width="40" /></a>
 </p>
